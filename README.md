@@ -30,5 +30,6 @@ Deprecation | :poop: `:poop:`
 Work In Progress (WIP) | :construction: `:construction:`
 TYPO | :sweat: `:sweat:`
 RANDOM | :alien: `:alien:`
+ugly code | :spaghetti: `:spaghetti:`
 Other | [Be creative](http://www.emoji-cheat-sheet.com/)
 
